@@ -26,7 +26,7 @@ def main():
     st.write(f"<h1 style='color : red; text-align:center; padding-bottom :80px;'>Car Price Prediction</h3>",unsafe_allow_html=True)
     
     #load the data
-    car_Dataset=pd.read_csv('Car_Price_Prediction/car data.csv')
+    car_Dataset=pd.read_csv('car data.csv')
     #Encoding the categorical data
 
     #Encoding the "Fuel_Type" Column

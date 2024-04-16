@@ -27,7 +27,7 @@ To run the Car Price Prediction model locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the necessary Python dependencies by running `pip install -r requirements.txt`.
-3. Run the Streamlit app using the command `streamlit run main.py`.
+3. Run the Streamlit app using the command `streamlit run Main.py`.
 4. Open your web browser and navigate to the URL displayed in the terminal to access the Car Price Prediction tool.
 
 ## Future Improvements

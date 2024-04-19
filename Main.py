@@ -12,7 +12,7 @@ from sklearn import metrics
 
 def main():
     # Set background color using HTML
-    st.set_page_config(page_title='Car Price Prediction', page_icon=':car:', initial_sidebar_state='auto')
+    st.set_page_config(page_title='Car Price Prediction', page_icon=':car:', initial_sidebar_state='centered')
     page_bg_image = """
     <style>
     [data-testid="stAppViewContainer"] {
